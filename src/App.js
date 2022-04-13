@@ -1,4 +1,5 @@
-import {Dog} from "./Dog";
+import React from "react";
+import { Dog } from "./Dog";
 const App = () => {
   return <Dog />;
 };
